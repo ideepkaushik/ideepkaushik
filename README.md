@@ -3,7 +3,7 @@
 </div>
 
 - 👋 Hi, I’m @ideepkaushik
-- 👀 I’m interested in Programming/development (Java/Javascript, Spring Boot/Angular , Android/PHP , SQL/Firebase/elastic Search)
+- 👀 I’m interested in (Java/Javascript, Spring Boot/Angular , Android/PHP , SQL/Firebase/Elastic Search, Oracle/MySQL)
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on a product which is globally identified.
 - 📫 How to reach me @Privatekaushik3512@gmail.com / +918799709773
