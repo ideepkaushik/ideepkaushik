@@ -4,12 +4,18 @@
 
 - 👋 Hi, I’m @ideepkaushik
 - 👀 I’m interested in (Java/Javascript, Spring Boot/Angular , SQL/Firebase/Elastic Search , Android/PHP , Oracle/MySQL)
-- 🌱 Career summary = Java trainer -> Java consultant -> Java developer -> Software engineer -> Senior Software Engineer and now Full Stack Technical Lead
-- 🌱 Personal Products 1- Visit my android apps on play store - https://play.google.com/store/apps/dev?id=5166000170994426372 (15+ android apps)
-- 🌱 Personal Products 2- Visit my tutorial website for Programming language - https://corejava25hours.com (90k+ views and counting)
-- 🌱 Personal Products 3- Visit my portfolio website (Under development) - http://www.ideeprogrammer.com
-- 🌱 Personal Products 4- Visit my E-commerce website (Under development) - https://www.deeptreatments.in
-- 🌱 Other personal products (Under development) - 4 Unplublished blogs, 13 unpublished android apps, 1 youtube channel (with 5 Java tutorial published videos) 
+- 🌱 Career(So far) = Java trainer -> Java consultant -> Java developer -> (Full Stack)-Software engineer -> (Full Stack)-Senior Software Engineer -> (Full Stack)-Associate Technical Lead
+- 🌱 Personal Products 1- Visit my android apps on play store - https://play.google.com/store/apps/dev?id=5166000170994426372 (20+ android apps)
+- 🌱 Personal Products 2- Visit my tutorial website for Programming language - https://corejava25hours.com (125k+ hits and counting)
+- 🌱 Personal Products 3- Visit my portfolio website (Live - Under continuous development) - http://www.ideeprogrammer.com
+- 🌱 Personal Products 4- Visit my E-commerce website (Under development) - (Comming soon)
+- 🌱 Personal Products 5- Visit my Youtube channel on Programming (60+ Videos) - https://www.youtube.com/@ideeprogrammer-pvt-ltd
+- 🌱 Personal Products 6- Visit my Youtube channel on My Voice (5+ Videos) - https://www.youtube.com/@ideeperformer_official
+- 🌱 Personal Products 7- Visit my Youtube channel on My Poem writing (10+ Videos) - https://www.youtube.com/@ideepoet_official
+- 🌱 Personal Products 8- Visit my Youtube channel on My Sketch/Drawing (2+ Videos) - https://www.youtube.com/@ideepainter_official
+- 🌱 Personal Products 9- Visit my Youtube channel on My Philosophies (1+ Videos) - https://www.youtube.com/@ideephilospher_official
+- 🌱 Personal Products 10- Visit my Youtube channel on My Mobile/Web Apps (10+ Videos) - https://www.youtube.com/@ideeproducer_official
+- 🌱 Other personal products (Under development) - 4 Unplublished blogs, 300+ unpublished android apps, 50+ unpublished videos, 150+ Poems etc) 
 - 💞️ I’m looking to collaborate on a product which can be globally identified.
 - 📫 How to reach me @Privatekaushik3512@gmail.com / +918799709773
 
